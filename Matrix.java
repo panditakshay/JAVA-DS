@@ -13,6 +13,7 @@ import static java.lang.System.exit;
  * but well these are for amateurs not for you, so close this ASAP if it hurts your eyes
  *
  * Thank you!
+ * P.S - This program has not been copied from anywhere, you can check it out for yourselves :)
  */
 
 //Created a main function inside the class itself for small education related project
