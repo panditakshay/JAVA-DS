@@ -17,3 +17,6 @@ The programs are as follows:
 
 4) Queue.java - Again a beginner friendly, entry level data structure program following the stack algorithm is the queue algorithm,
    Easier to implement and understand the movement of data with the help of arrays, exact opposite to stack in implementation and            underlying core functions.
+
+
+5) Selection.java - Selection sort is one of hundreds of other sorting algorithms. Understanding this simple algorithm about placing the      elements according to their hierarchy either ascending or descending (I have only presented the ascending method of sorting). If anyone    wants to do the other way round doing the descending method, go ahead and try, also anybody can contact me regarding this.
