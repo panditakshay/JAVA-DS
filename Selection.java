@@ -43,7 +43,9 @@ public class Selection {
         for(int i=0; i < size; i++){
             min = i;
             for (int j=i+1; j<size; j++){
-                if(myArray[j] < myArray[min]){
+                //If the sorting is to done in decreasing order just change the '<' sign to '>'
+                //change min variable to max and replace all min to max for decreasing sort
+                if(myArray[j] < myArray[min]){ 
                     min = j;
                 }
             }
