@@ -23,3 +23,6 @@ The programs are as follows:
 
 
 6) Bubble.java - Just a simple algorithm that provides us the sorted set by using mainly the swapping mechanism within two main loops that    places adjacent values against each other and checks which one is the smallest so as to scooch that least number to the left thus          giving us the sorted set. One of the crucial algorithms to learn while understanding the data structures.  
+
+
+7) Insertion.java - yet again one of the most important sorting algorithms is the insertion sorting algorithm which comes after the bubble    sorting technique according to the bookish patterns that governs the proper understanding of selection sorting as well as bubble          sorting to understand the working of insertion sorting, although it's quite not related to selection or bubble sorting but requires        proper understanding of usage of variables and swapping and other loops that perform the important task.
